@@ -1,6 +1,6 @@
 # Stein Connect
 
-Everything about joining a server, for the **[Stein Loader](https://github.com/x4vieer/stein-labs)** (Minecraft
+Everything about joining a server, for the **[Stein Loader](https://github.com/x4vieer/stein-loader)** (Minecraft
 1.8.9 on Java 25).
 
 **[Download Connect.steinmod](https://github.com/x4vieer/stein-connect/releases/latest/download/Connect.steinmod)**
